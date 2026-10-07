@@ -14,8 +14,7 @@ __pycache__/
 adapters/*/
 !adapters/.gitkeep
 data/split/
-data/CUSTOM_DATASET.md
-*.zip
+lab21_2A202602474.zip
 gguf/
 *.gguf
 runs/
